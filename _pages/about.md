@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a doctoral student in the College of Computer Science at Nankai University, where my research centers on secure key management, identity authentication protocols, and provable security. My supervisors are Prof. [Ding Wang](https://wangdingg.weebly.com/). I received my Bachelor’s degree from Nankai University in 2018.
+I am currently a doctoral student in the College of Computer Science at Nankai University, where my research centers on secure key management, identity authentication protocols, and provable security. My supervisor is Prof. [Ding Wang](https://wangdingg.weebly.com/). I received my Bachelor’s degree from Nankai University in 2018.
 
 
 Publication
