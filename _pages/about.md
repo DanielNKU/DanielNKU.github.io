@@ -16,14 +16,10 @@ Publication
 2. **Yihe Duan** (段逸赫), Ding Wang*, Yanduo Fu, [Security Analysis of Master-Password-Protected Password management Protocols](https://ieeexplore.ieee.org/abstract/document/11023515), in Proc. **IEEE S&P** 2025, pp.701-719.
 3. Chenyu Wang, Ding Wang*, **Yihe Duan** (段逸赫), Xiaofeng Tao, [Secure and Lightweight User Authentication Scheme for Cloud-Assisted Internet of Things](https://ieeexplore.ieee.org/abstract/document/10114980), IEEE Transactions on Information Forensics and Security (**IEEE TIFS**), vol. 18, pp. 2961-2976, 2023.
 
-Getting started
+Educations
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. [2022.09 - now] Ph.D in Computer Science, Nankai University, supervised by Prof. Ding Wang.
+2. [2018.09 - 2022.06] Bachelor of Engineering, Major in Information Security (Minor in Law), Nankai University.
 
 Site-wide configuration
 ------
