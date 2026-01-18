@@ -12,7 +12,7 @@ I am currently a doctoral student in the College of Computer Science at Nankai U
 
 Publication
 ======
-1. **Yihe Duan** (段逸赫), Ding Wang*, Yutong Li, [Credential Extraction Attacks Against Compromised Credential Checking Services of Password Managers](https://www.researchgate.net/publication/396329386_Credential_Extraction_Attacks_Against_Compromised_Credential_Checking_Services_of_Password_Managers), in Proc. **IEEE S&P** 2026. 
+1. **Yihe Duan** (段逸赫), Ding Wang*, Yutong Li, [Credential Extraction Attacks Against Compromised Credential Checking Services of Password Managers](https://www.researchgate.net/publication/396329386_Credential_Extraction_Attacks_Against_Compromised_Credential_Checking_Services_of_Password_Managers), in Proc. **IEEE S&P** 2026.
 2. **Yihe Duan** (段逸赫), Ding Wang*, Yanduo Fu, [Security Analysis of Master-Password-Protected Password management Protocols](https://ieeexplore.ieee.org/abstract/document/11023515), in Proc. **IEEE S&P** 2025, pp.701-719.
 3. Chenyu Wang, Ding Wang*, **Yihe Duan** (段逸赫), Xiaofeng Tao, [Secure and Lightweight User Authentication Scheme for Cloud-Assisted Internet of Things](https://ieeexplore.ieee.org/abstract/document/10114980), IEEE Transactions on Information Forensics and Security (**IEEE TIFS**), vol. 18, pp. 2961-2976, 2023.
 
@@ -38,6 +38,12 @@ Awards
 13. Second Prize, “Fifth Space” Cybersecurity Innovation Application Competition, 2019
 
 
+Research Funds
+======
+1. NSF of China for Basic Research of Young Students (Ph.D. Candidates), **"Research on Tamarin-based Automated Analysis Methods for Password-based Cryptographic Protocols"** (2026.01~2027.12)
+2. China Association for Science and Technology Youth Science and Technology Talent Cultivation Project Doctoral Student Special Program
+
+
 Academic Services
 ======
 1. President, China Computer Federation (CCF) Student Chapter of Nankai University, 2024–2025
@@ -47,5 +53,6 @@ Academic Services
 
 Presentations
 ======
-1. Presented at the 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)
-2. Attended the 2024 Annual Conference of the Chinese Association for Cryptologic Research (CACR) and delivered a presentation at the Open Forum
+1. Attended the 2025 Annual Conference of the Chinese Association for Cryptologic Research (CACR) and delivered a presentation at the Open Forum
+2. Presented at the 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)
+3. Attended the 2024 Annual Conference of the Chinese Association for Cryptologic Research (CACR) and delivered a presentation at the Open Forum
