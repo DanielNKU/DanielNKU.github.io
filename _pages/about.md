@@ -41,7 +41,7 @@ Awards
 Research Funds
 ======
 1. NSF of China for Basic Research of Young Students (Ph.D. Candidates), **"Research on Tamarin-based Automated Analysis Methods for Password-based Cryptographic Protocols"** (2026.01~2027.12)
-2. China Association for Science and Technology Youth Science and Technology Talent Cultivation Project Doctoral Student Special Program
+// 2. China Association for Science and Technology Youth Science and Technology Talent Cultivation Project Doctoral Student Special Program
 
 
 Academic Services
